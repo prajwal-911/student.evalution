@@ -9,8 +9,8 @@ if len(sys.argv) == 5:
     
     print("User provided input values:")
 else:
-    name = "Nikhil"
-    rollno = "42"
+    name = "prajwal"
+    rollno = "052"
     mark1 = "35"
     mark2 = "35"
     mark3= "35"
